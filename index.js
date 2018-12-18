@@ -6,7 +6,8 @@ const keys = [
 	['plain', require('./src/plain.js')],
 	['random', require('./src/random.js')],
 	['seed', require('./src/seed.js')],
-	['short', require('./src/short.js')]
+	['short', require('./src/short.js')],
+	['simple', require('./src/simple.js')]
 ];
 
 let out = {};
