@@ -8,7 +8,7 @@
 		"test": "node test.js"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "anzerr",
 	"license": "ISC",
 	"devDependencies": {
 		"eslint": "^5.9.0",
@@ -17,5 +17,17 @@
 	"eslintConfig": {
 		"extends": "eslint-config-basic"
 	},
-	"dependencies": {}
+	"dependencies": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/anzerr/unique.util.git"
+	},
+	"engines": {
+		"node": ">= 0.10.0"
+	},
+	"types": "index.d.ts",
+	"bugs": {
+		"url": "https://github.com/anzerr/unique.util/issues"
+	},
+	"homepage": "https://github.com/anzerr/unique.util#readme"
 }
