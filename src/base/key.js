@@ -43,7 +43,7 @@ class Key {
 	}
 
 	now() {
-		return new Date().getTime() - config.uniqueKey.time;
+		return Date.now() - config.uniqueKey.time;
 	}
 
 	version() {

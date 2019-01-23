@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	session: new Date().getTime(),
+	session: Date.now(),
 	crypto: {
 		type: 'sha256'
 	},
