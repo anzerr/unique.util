@@ -4,7 +4,7 @@ unique key generation library pulled from Singularity
 
 #### `Install`
 ``` bash
-npm install --save git+ssh://git@github.com/anzerr/uKey.library.git
+npm install --save git+http://git@github.com/anzerr/uKey.library.git
 ```
 
 ### `Example`
