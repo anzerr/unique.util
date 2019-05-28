@@ -1,7 +1,9 @@
 'use strict';
 
+const crypto = require('crypto');
+
 module.exports = {
-	session: Date.now(),
+	session: crypto.randomBytes(256).toString('hex'),
 	crypto: {
 		type: 'sha256'
 	},

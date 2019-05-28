@@ -1,33 +1,32 @@
 {
 	"name": "unique.util",
 	"version": "1.0.0",
-	"description": "",
+	"keywords": [],
+	"homepage": "https://github.com/anzerr/unique.util#readme",
+	"bugs": {
+		"url": "https://github.com/anzerr/unique.util/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/anzerr/unique.util.git"
+	},
+	"license": "ISC",
+	"author": "anzerr",
 	"main": "index.js",
+	"types": "index.d.ts",
 	"scripts": {
 		"commit": "git add . && git commit -m \"fast save\" && git push origin master",
 		"test": "node test.js"
-	},
-	"keywords": [],
-	"author": "anzerr",
-	"license": "ISC",
-	"devDependencies": {
-		"eslint": "^5.9.0",
-		"eslint-config-basic": "git+https://git@github.com/anzerr/eslintrc.git"
 	},
 	"eslintConfig": {
 		"extends": "eslint-config-basic"
 	},
 	"dependencies": {},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/anzerr/unique.util.git"
+	"devDependencies": {
+		"eslint": "^5.9.0",
+		"eslint-config-basic": "git+https://git@github.com/anzerr/eslintrc.git"
 	},
 	"engines": {
 		"node": ">= 0.10.0"
-	},
-	"types": "index.d.ts",
-	"bugs": {
-		"url": "https://github.com/anzerr/unique.util/issues"
-	},
-	"homepage": "https://github.com/anzerr/unique.util#readme"
+	}
 }

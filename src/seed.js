@@ -6,7 +6,7 @@ const Seed = require('./base/seed.js'),
 class SeedKey extends require('./base/key.js') {
 
 	generate(s) {
-		return new Seed(Number(s) || config.session);
+		return new Seed(s || config.session);
 	}
 
 }

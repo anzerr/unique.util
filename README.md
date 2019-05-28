@@ -16,7 +16,7 @@ console.log(key.number());
 console.log(key.random());
 console.log(key.plain());
 console.log(key.seed(1).next());
-console.log(key.short());
+console.log(key.short()); // crypto safe?
 console.log(key.simple()); // not crypto safe
 ```
 
