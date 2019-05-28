@@ -8,9 +8,9 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/anzerr/unique.util.git"
+		"url": "git@github.com:anzerr/unique.util.git"
 	},
-	"license": "ISC",
+	"license": "MIT",
 	"author": "anzerr",
 	"main": "index.js",
 	"types": "index.d.ts",
@@ -23,7 +23,7 @@
 	},
 	"dependencies": {},
 	"devDependencies": {
-		"eslint": "^5.9.0",
+		"eslint": "5.11.1",
 		"eslint-config-basic": "git+https://git@github.com/anzerr/eslintrc.git"
 	},
 	"engines": {
