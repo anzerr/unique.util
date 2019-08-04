@@ -15,7 +15,6 @@
 	"main": "index.js",
 	"types": "index.d.ts",
 	"scripts": {
-		"commit": "git add . && git commit -m \"fast save\" && git push origin master",
 		"test": "node test.js"
 	},
 	"eslintConfig": {

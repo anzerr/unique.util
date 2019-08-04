@@ -1,10 +1,10 @@
 
 ### `Intro`
-unique key generation library pulled from Singularity
+unique key generation util
 
 #### `Install`
 ``` bash
-npm install --save git+https://git@github.com/anzerr/uKey.library.git
+npm install --save git+https://git@github.com/anzerr/unique.util.git
 ```
 
 ### `Example`
