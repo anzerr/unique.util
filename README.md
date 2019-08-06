@@ -1,10 +1,10 @@
 
 ### `Intro`
-unique key generation util
+Unique key generation util.
 
 #### `Install`
 ``` bash
-npm install --save git+https://git@github.com/anzerr/unique.util.git
+npm install --save git+https://github.com/anzerr/unique.util.git
 ```
 
 ### `Example`
