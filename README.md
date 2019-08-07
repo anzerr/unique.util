@@ -5,6 +5,7 @@ Unique key generation util.
 #### `Install`
 ``` bash
 npm install --save git+https://github.com/anzerr/unique.util.git
+npm install --save @anzerr/unique.util
 ```
 
 ### `Example`
