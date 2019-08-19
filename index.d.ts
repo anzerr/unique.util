@@ -14,4 +14,4 @@ declare class Key {
 }
 
 declare const _default: Key;
-export = _default;
+export default _default;
