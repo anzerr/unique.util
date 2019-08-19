@@ -17,3 +17,4 @@ keys.map((k) => {
 	};
 });
 module.exports = out;
+module.exports.default = out;
