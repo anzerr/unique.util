@@ -1,5 +1,7 @@
 
 ### `Intro`
+![GitHub Actions status | publish](https://github.com/anzerr/unique.util/workflows/publish/badge.svg)
+
 Unique key generation util.
 
 #### `Install`
